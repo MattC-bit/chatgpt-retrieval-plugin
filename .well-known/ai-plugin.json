@@ -1,6 +1,6 @@
 {
   "schema_version": "v1",
-  "name_for_model": "retrieval",
+  "name_for_model": "LangChain",
   "name_for_human": "Retrieval Plugin",
   "description_for_model": "Plugin for searching through the langchain documentation. Use this plugin when the user asks a question that could be answered with LangChain Python documentation. Do not use this plugin if the user has not requested information on LangChain.",
   "description_for_human": "Search through your documents.",

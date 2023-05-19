@@ -2,9 +2,9 @@ openapi: 3.0.0
 info:
   title: Retrieval Plugin API
   version: 1.0.0
-  description: This API lets you search through the LangChain Documentation.
+  description: This API lets you search through the LangChain Python Documentation.
 servers:
-  - url: https://retrieval-plugin-server-akx6.onrender.com
+  - url: https://retrieval-plugin-server-u70u.onrender.com
 paths:
   /query:
     post:
